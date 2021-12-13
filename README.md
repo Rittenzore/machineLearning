@@ -2,7 +2,7 @@
 <h3 align="center">This is a machine learning homeworks for ITIS 11-806 group</h3>
 
 - ⚡️ What to launch? 
-- ⚡️ [K-Means code launching from MLHomework01.py](https://github.com/Rittenzore/machineLearning/blob/master/pythonProject/k-means.py)
+- ⚡️ [K-Means code launching from k-means.py](https://github.com/Rittenzore/machineLearning/blob/master/pythonProject/k-means.py)
 - ⚡️  [C-Means code launching from MLHomework02.py](https://github.com/Rittenzore/machineLearning/blob/master/pythonProject/MLHomework02.py)
 - ⚡️  [DBScan code launching from DBScan.py](https://github.com/Rittenzore/machineLearning/blob/master/pythonProject/DBScan.py)
 - ⚡️  [kNN code launching from DBScan.py](https://github.com/Rittenzore/machineLearning/blob/master/pythonProject/knn.py)
